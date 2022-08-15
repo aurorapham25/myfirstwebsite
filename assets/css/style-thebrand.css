@@ -319,7 +319,7 @@ width: 50%;
 .comment-in4 {
     width: 50%;
     font-size: 18px;
-    line-height: 1.8;
+    line-height: 1.6;
     font-style: italic;
     float: left;
     margin-top: 28px;
@@ -576,11 +576,11 @@ width: 50%;
     .gallery-item {
         width: 100%;
         margin: 0;
-        margin-bottom: 32px;
+        margin-bottom: 36px;
     }
 
     .comment-in4 {
-        margin: 0 0 16px;
+        margin: 0 0 20px;
     }
 
     .comment-btn {
