@@ -176,7 +176,7 @@ width: 50%;
 #slider .slider-content{
     color: #323232;
     position: absolute;
-    bottom: 36px;
+    bottom: 10%;
     width: 100%;
     text-align: center;
 }
@@ -533,6 +533,16 @@ width: 50%;
 
     #nav .subnav a {
         padding: 0 42px;
+    }
+
+    /* slider */
+    #slider .content-heading {
+        font-size: 16px;
+    }
+
+    #slider .content-description {
+        font-size: 12px;
+        padding-top: 8px;
     }
 
     /* content */
