@@ -584,7 +584,7 @@ width: 50%;
     }
 
     .comment-btn {
-        width: 100%;
+        opacity: 1;
     }
 
     /* modal */
