@@ -169,7 +169,7 @@ width: 50%;
 #slider {
     padding-top: 45%;
     margin-top: 50px;
-    background: url('/assets/img/slider-1.jpg') top center / cover no-repeat ;
+    background: url('../img/slider-1.jpg') top center / cover no-repeat ;
     position: relative;
 }
 
@@ -467,14 +467,14 @@ width: 50%;
 
 /* responsive */
 /* tablet & pc */
-@media (min-width: 750px){
+@media (min-width: 46.25em){
     #header .mobile-menu-btn {
         display: none;
     }
 }
 
 /* tablet */
-@media (max-width: 1023px) and (min-width: 740px) {
+@media (max-width: 63.9375em) and (min-width: 46.25em) {
     .article-contain,
     .gallery-contain{
         margin: 8px;
@@ -497,7 +497,7 @@ width: 50%;
 }
 
 /* mobile */
-@media (max-width: 740px) {
+@media (max-width: 46.1875em) {
     html {
         font-size: 16px;
     }
